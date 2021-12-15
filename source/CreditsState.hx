@@ -46,10 +46,10 @@ class CreditsState extends MusicBeatState
 		add(grpOptions);
 
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
-			['Psych Engine Android Port'],
-			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
-			['Psych Engine Team'],
-			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	'0xFFFFDD33'],
+			['Original mod idea by'],
+			['Peacefulllama15',		    'Peace',		    'well i am creator of this mod i hope you liked it',	 'https://youtube.com/channel/UCHHN7KNEOIwY_8sNSxJmMDg',	'0xFFE2C284'],
+			['Used songs and used sprites'],
+			['JellyFishedm',		'JellyFishedm',		'Sprites used by this guy the neo fnf creator',					'https://gamebanana.com/members/1776245',	'0xFFFFDD33'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		'0xFFC30085'],
 			[''],
 			['Engine Contributors'],
