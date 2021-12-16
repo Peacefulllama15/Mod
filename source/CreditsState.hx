@@ -50,7 +50,7 @@ class CreditsState extends MusicBeatState
 			['Peacefulllama15',		    'Peace',		    'well i am creator of this mod i hope you liked it',	 'https://youtube.com/channel/UCHHN7KNEOIwY_8sNSxJmMDg',	'0xFFE2C284'],
 			['Used songs and used sprites'],
 			['JellyFishedm',		'JellyFishedm',		'Sprites used by this guy the neo fnf creator',					'https://gamebanana.com/members/1776245',	'0xFFFFDD33'],
-			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		'0xFFC30085'],
+			['Atsuover',			'over',		'Two songs used from him the artist-lemonade and good enough',				'https://youtube.com/c/atsuover',		'0xFFC30085'],
 			[''],
 			['Engine Contributors'],
 			['shubs',				'shubs',			'New Input System Programmer',						'https://twitter.com/yoshubs',			'0xFF4494E6'],
